@@ -11,6 +11,6 @@ I hope you like it!
 
 code example
 
-'''
+```python
 print('hello')
-'''
+```
