@@ -273,10 +273,10 @@ defaults:
       path: ""
       type: posts
     values:
-      show_date: true
+      # show_date: true
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
