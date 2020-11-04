@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Welcome to Jekyll!"
-breadcrumb: test-page
+categories: test
 ---
 
 # Welcome
